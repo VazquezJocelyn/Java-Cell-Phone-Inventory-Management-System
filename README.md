@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Java-based application for managing a cell phone inventory system. It includes functionality for creating user accounts, logging in, and managing the inventory of cell phones. The system provides a user-friendly interface for interacting with the inventory and ensuring that data is stored securely and efficiently.
+This Java program manages a cell phone inventory system. It features user account creation, check-in functionality, and inventory control. The system provides an intuitive interface and ensures efficient, secure data storage.
 
 ## Features
 
